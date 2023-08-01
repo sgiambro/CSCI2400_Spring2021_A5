@@ -1,0 +1,5 @@
+bird,bird,bird,
+lamp,lamp,lamp,lamp,lamp,lamp,lamp,
+tree,tree,tree,tree,tree,tree,
+paper,paper,paper,paper,paper,paper,paper,paper,paper,
+snow,snow,snow,snow,snow,snow,snow,snow,
